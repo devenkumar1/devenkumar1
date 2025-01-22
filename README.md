@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning payment gateway integration.
 - 💞️ I’m looking to collaborate on MERN web development projects
-- 📫 How to reach me kumardevenchourasia@gmail.com
+- 📫 How to reach me officialdeven1@gmail.com
 - 😄 Pronouns: Sunny
 - ⚡ Fun fact: ....
 
