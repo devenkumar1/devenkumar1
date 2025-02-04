@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=devenkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devenkumar1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devenkumar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devenkumar1&theme=react-dark)  
+![GitHub Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devenkumar1&theme=github_dark)  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devenkumar1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
